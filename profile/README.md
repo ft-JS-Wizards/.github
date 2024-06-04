@@ -1,4 +1,4 @@
-## we are ft-JS-Wizards 👋
+## We are ft-JS-Wizards 👋
 
 <!--
 
